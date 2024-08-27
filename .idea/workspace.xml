@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48eeefa7-2db6-4e00-9bde-f0a84011844e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pratice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LagbajaSchool/school/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LagbajaSchool/school/student_grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_in_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classtask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_akant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_biggest_odd.py" afterDir="false" />
+    <list default="true" id="48eeefa7-2db6-4e00-9bde-f0a84011844e" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/javascripttask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripttask/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/equalstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_biggestodd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_equalstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pratice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pratice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_biggest_odd.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,15 +47,30 @@
     "Python tests.Python tests for test_akant.TestAkant.executor": "Run",
     "Python tests.Python tests for test_biggest_odd.TestBiggestOdd.executor": "Run",
     "Python tests.Python tests for test_biggest_odd.Testnewnumber.executor": "Run",
+    "Python tests.Python tests for test_equalstring.TestEqualString.executor": "Run",
+    "Python tests.Python tests for test_equalstring.TestEqualString.test_equalstring.executor": "Run",
+    "Python tests.Python tests for test_equalstring.TestEqualString.test_equalstring2.executor": "Run",
+    "Python tests.Python tests for test_equalstring.TestEqualString.test_equalstring3.executor": "Run",
+    "Python tests.Python tests for test_equalstring.TestEqualString.test_equalstring4.executor": "Run",
+    "Python tests.Python tests for test_task.TestTask.executor": "Run",
+    "Python tests.Python tests for testbiggestodd.TestBiggestOdd.executor": "Run",
+    "Python tests.Python tests for testbiggestodd.TestBiggestOdd.test_biggest_odd.executor": "Run",
+    "Python tests.Python tests for testbiggestodd.TestMyOdd.executor": "Run",
+    "Python tests.Python tests for testbiggestodd.TestNewNumber.executor": "Run",
     "Python.Python tests for test Akant.TestAkant (1).executor": "Run",
     "Python.__init__.executor": "Run",
+    "Python.big_odd (1).executor": "Run",
     "Python.biggest_odd.executor": "Run",
+    "Python.bigodd.executor": "Run",
     "Python.classes_in_python.executor": "Run",
     "Python.classproject.executor": "Run",
     "Python.classtask.executor": "Run",
+    "Python.equalstring.executor": "Run",
     "Python.main.executor": "Run",
     "Python.practice.executor": "Run",
     "Python.student_grade.executor": "Run",
+    "Python.task (1).executor": "Run",
+    "Python.task.executor": "Run",
     "Python.test Akant.executor": "Run",
     "Python.test_biggest_odd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -73,8 +83,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_biggest_odd.TestBiggestOdd">
-    <configuration name="big_odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_task.TestTask">
+    <configuration name="task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selfpractice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\pratice\self practice\big_odd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selfpractice/task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_biggest_odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,12 +116,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/javascripttask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_biggest_odd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/javascripttask/task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_akant.TestAkant" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_equalstring.TestEqualString" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,11 +142,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_akant.TestAkant&quot;" />
+      <option name="_new_target" value="&quot;test_equalstring.TestEqualString&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_biggest_odd.TestBiggestOdd" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_equalstring.TestEqualString.test_equalstring4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +158,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_biggest_odd.TestBiggestOdd&quot;" />
+      <option name="_new_target" value="&quot;test_equalstring.TestEqualString.test_equalstring4&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_biggest_odd.Testnewnumber" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_task.TestTask" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,17 +174,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_biggest_odd.Testnewnumber&quot;" />
+      <option name="_new_target" value="&quot;test_task.TestTask&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_biggest_odd.TestBiggestOdd" />
-        <item itemvalue="Python tests.Python tests for test_biggest_odd.Testnewnumber" />
-        <item itemvalue="Python tests.Python tests for test_akant.TestAkant" />
-        <item itemvalue="Python.test_biggest_odd" />
-        <item itemvalue="Python.big_odd" />
+        <item itemvalue="Python tests.Python tests for test_task.TestTask" />
+        <item itemvalue="Python.task (1)" />
+        <item itemvalue="Python.task" />
+        <item itemvalue="Python tests.Python tests for test_equalstring.TestEqualString" />
+        <item itemvalue="Python tests.Python tests for test_equalstring.TestEqualString.test_equalstring4" />
       </list>
     </recent_temporary>
   </component>
@@ -196,24 +206,56 @@
       <updated>1724145690191</updated>
       <workItem from="1724145712282" duration="8059000" />
       <workItem from="1724157599526" duration="32995000" />
-      <workItem from="1724422865003" duration="820000" />
+      <workItem from="1724422865003" duration="1004000" />
+      <workItem from="1724423891951" duration="5827000" />
+      <workItem from="1724537023309" duration="1934000" />
+      <workItem from="1724695338940" duration="2979000" />
+      <workItem from="1724761103210" duration="5485000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1724423737494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724423737494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pratice$test_biggest_odd.coverage" NAME="test_biggest_odd Coverage Results" MODIFIED="1724422137974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$__init__.coverage" NAME="test Akant Coverage Results" MODIFIED="1724169684664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$task__1_.coverage" NAME="task (1) Coverage Results" MODIFIED="1724767961262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$task.coverage" NAME="task Coverage Results" MODIFIED="1724697277100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/javascripttask" />
+    <SUITE FILE_PATH="coverage/pratice$main.coverage" NAME="main Coverage Results" MODIFIED="1724168889266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratice$practice.coverage" NAME="practice Coverage Results" MODIFIED="1724420165629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self practice" />
     <SUITE FILE_PATH="coverage/pratice$classtask.coverage" NAME="classtask Coverage Results" MODIFIED="1724162432141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratice$classproject.coverage" NAME="classproject Coverage Results" MODIFIED="1724158348410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratice$classes_in_python.coverage" NAME="classes_in_python Coverage Results" MODIFIED="1724168650376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratice$biggest_odd.coverage" NAME="biggest_odd Coverage Results" MODIFIED="1724422133465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self practice" />
-    <SUITE FILE_PATH="coverage/pratice$test_biggest_odd.coverage" NAME="test_biggest_odd Coverage Results" MODIFIED="1724422137974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/pratice$__init__.coverage" NAME="test Akant Coverage Results" MODIFIED="1724169684664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$big_odd__1_.coverage" NAME="bigodd Coverage Results" MODIFIED="1724424240368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$equalstring.coverage" NAME="equalstring Coverage Results" MODIFIED="1724427666538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$student_grade.coverage" NAME="student_grade Coverage Results" MODIFIED="1724420136242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LagbajaSchool/school" />
-    <SUITE FILE_PATH="coverage/pratice$.coverage" NAME=" Coverage Results" MODIFIED="1724423586136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/pratice$main.coverage" NAME="main Coverage Results" MODIFIED="1724168889266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratice$practice.coverage" NAME="practice Coverage Results" MODIFIED="1724420165629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self practice" />
+    <SUITE FILE_PATH="coverage/pratice$.coverage" NAME=" Coverage Results" MODIFIED="1724768029780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pratice$Python_tests_for_test_Akant_TestAkant__1_.coverage" NAME="Python tests for test Akant.TestAkant (1) Coverage Results" MODIFIED="1724169799630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
 </project>

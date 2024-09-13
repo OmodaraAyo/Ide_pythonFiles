@@ -5,15 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48eeefa7-2db6-4e00-9bde-f0a84011844e" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/javascripttask/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascripttask/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selfpractice/equalstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_biggestodd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_equalstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pratice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pratice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classtask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classtask/alphabetcounter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classtask/capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classtask/cees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classtask/charactersswap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classtask/countChars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classtask/evenoddcounter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/ascending_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/del_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/del_triangle_and_nabla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/diamond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/for_loop_multiple_initializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/hillpattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/increasing_numbers_in_diamond_shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/left_sided_pascal_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/lefttriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/nablatriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/numbers_in_A_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/numbers_in_triangle_shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/pascal_cases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/pascal_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/pyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/reversehill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/reversenumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/splitting_string_by_even_and_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/startriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/trying_pyramid_again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/task/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/task/test_characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/task/test_charswap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/task/test_classtasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/task/test_evenoddcounter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_biggest_odd.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,38 +68,79 @@
   "keyToString": {
     "Python tests.Python tests for TestAkant.executor": "Run",
     "Python tests.Python tests for TestAkant.test_that_account_can_deposit.executor": "Run",
+    "Python tests.Python tests for task.test_charswap.TestCharactersswap.executor": "Run",
+    "Python tests.Python tests for task.test_charswap.TestCharsSwap.executor": "Run",
+    "Python tests.Python tests for task.test_charswap.TestSwappingChars.executor": "Run",
+    "Python tests.Python tests for task.test_classtasks.TestSees.executor": "Run",
+    "Python tests.Python tests for task.test_classtasks.TestSees.test_alphabet_counter_functionality.executor": "Run",
+    "Python tests.Python tests for task.test_classtasks.TestSees.test_alphabet_counter_funtionality_again.executor": "Run",
+    "Python tests.Python tests for task.test_classtasks.TestSees.test_swapcharss_functionality.executor": "Run",
+    "Python tests.Python tests for task.test_evenoddcounter.TestEvenOddCounter.executor": "Run",
+    "Python tests.Python tests for task.test_evenoddcounter.TestEvenOddCounter.test_eaocounter_functionality2.executor": "Run",
     "Python tests.Python tests for test Akant.TestAkant.executor": "Run",
     "Python tests.Python tests for test_akant.TestAkant.executor": "Run",
     "Python tests.Python tests for test_biggest_odd.TestBiggestOdd.executor": "Run",
     "Python tests.Python tests for test_biggest_odd.Testnewnumber.executor": "Run",
+    "Python tests.Python tests for test_characters.TestCharacters.executor": "Run",
+    "Python tests.Python tests for test_characters.TestCharacters.test_To_Count_CharactersSmallLetters.executor": "Run",
+    "Python tests.Python tests for test_classtasks.TestSees.executor": "Run",
+    "Python tests.Python tests for test_classtasks.TestSees.test_that_caps_to_smalls_exist.executor": "Run",
     "Python tests.Python tests for test_equalstring.TestEqualString.executor": "Run",
     "Python tests.Python tests for test_equalstring.TestEqualString.test_equalstring.executor": "Run",
     "Python tests.Python tests for test_equalstring.TestEqualString.test_equalstring2.executor": "Run",
     "Python tests.Python tests for test_equalstring.TestEqualString.test_equalstring3.executor": "Run",
     "Python tests.Python tests for test_equalstring.TestEqualString.test_equalstring4.executor": "Run",
+    "Python tests.Python tests for test_sees.TestSees.executor": "Run",
+    "Python tests.Python tests for test_sees.TestSees.test_sees_funtionality.executor": "Run",
     "Python tests.Python tests for test_task.TestTask.executor": "Run",
     "Python tests.Python tests for testbiggestodd.TestBiggestOdd.executor": "Run",
     "Python tests.Python tests for testbiggestodd.TestBiggestOdd.test_biggest_odd.executor": "Run",
     "Python tests.Python tests for testbiggestodd.TestMyOdd.executor": "Run",
     "Python tests.Python tests for testbiggestodd.TestNewNumber.executor": "Run",
+    "Python tests.Python tests in test_classtasks.py.executor": "Run",
     "Python.Python tests for test Akant.TestAkant (1).executor": "Run",
     "Python.__init__.executor": "Run",
+    "Python.alphabetcounter.executor": "Run",
+    "Python.ascending_numbers.executor": "Run",
     "Python.big_odd (1).executor": "Run",
     "Python.biggest_odd.executor": "Run",
     "Python.bigodd.executor": "Run",
+    "Python.characters.executor": "Run",
     "Python.classes_in_python.executor": "Run",
     "Python.classproject.executor": "Run",
     "Python.classtask.executor": "Run",
+    "Python.countChars.executor": "Run",
+    "Python.del_triangle.executor": "Run",
+    "Python.del_triangle_and_nabla.executor": "Run",
+    "Python.diamond.executor": "Run",
     "Python.equalstring.executor": "Run",
+    "Python.for_loop_multiple_initializer.executor": "Run",
+    "Python.hillpattern.executor": "Run",
+    "Python.increasing_numbers_in_diamond_shape.executor": "Run",
+    "Python.left_sided_pascal_triangle.executor": "Run",
+    "Python.lefttriangle.executor": "Run",
+    "Python.lolime.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.nablatriangle.executor": "Run",
+    "Python.numbers_in_A_triangle.executor": "Run",
+    "Python.numbers_in_triangle_shape.executor": "Run",
+    "Python.pascal_cases.executor": "Run",
     "Python.practice.executor": "Run",
+    "Python.pyramid.executor": "Run",
+    "Python.reversehill.executor": "Run",
+    "Python.reversenumber.executor": "Run",
+    "Python.splitting_string_by_even_and_odd.executor": "Run",
+    "Python.start_all_number_with_one.executor": "Run",
+    "Python.start_and_end_all_with_one.executor": "Run",
+    "Python.startriangle.executor": "Run",
     "Python.student_grade.executor": "Run",
     "Python.task (1).executor": "Run",
     "Python.task.executor": "Run",
     "Python.test Akant.executor": "Run",
     "Python.test_biggest_odd.executor": "Run",
+    "Python.trying_pyramid_again.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,8 +149,59 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_task.TestTask">
-    <configuration name="task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\pratice\test\task" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.splitting_string_by_even_and_odd">
+    <configuration name="alphabetcounter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classtask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classtask/alphabetcounter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="countChars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classtask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classtask/countChars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="splitting_string_by_even_and_odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +215,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selfpractice/task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selfpractice/splitting_string_by_even_and_odd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,30 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pratice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/javascripttask" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/javascripttask/task.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_equalstring.TestEqualString" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for task.test_evenoddcounter.TestEvenOddCounter" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +236,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_equalstring.TestEqualString&quot;" />
+      <option name="_new_target" value="&quot;task.test_evenoddcounter.TestEvenOddCounter&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_equalstring.TestEqualString.test_equalstring4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for task.test_evenoddcounter.TestEvenOddCounter.test_eaocounter_functionality2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,33 +252,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_equalstring.TestEqualString.test_equalstring4&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_task.TestTask" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="pratice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_task.TestTask&quot;" />
+      <option name="_new_target" value="&quot;task.test_evenoddcounter.TestEvenOddCounter.test_eaocounter_functionality2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_task.TestTask" />
-        <item itemvalue="Python.task (1)" />
-        <item itemvalue="Python.task" />
-        <item itemvalue="Python tests.Python tests for test_equalstring.TestEqualString" />
-        <item itemvalue="Python tests.Python tests for test_equalstring.TestEqualString.test_equalstring4" />
+        <item itemvalue="Python.splitting_string_by_even_and_odd" />
+        <item itemvalue="Python tests.Python tests for task.test_evenoddcounter.TestEvenOddCounter" />
+        <item itemvalue="Python tests.Python tests for task.test_evenoddcounter.TestEvenOddCounter.test_eaocounter_functionality2" />
+        <item itemvalue="Python.countChars" />
+        <item itemvalue="Python.alphabetcounter" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +288,15 @@
       <workItem from="1724423891951" duration="5827000" />
       <workItem from="1724537023309" duration="1934000" />
       <workItem from="1724695338940" duration="2979000" />
-      <workItem from="1724761103210" duration="5485000" />
+      <workItem from="1724761103210" duration="9083000" />
+      <workItem from="1725201875182" duration="124000" />
+      <workItem from="1725616436220" duration="11728000" />
+      <workItem from="1725675766538" duration="58497000" />
+      <workItem from="1725876542450" duration="14271000" />
+      <workItem from="1725898921423" duration="5963000" />
+      <workItem from="1725941317639" duration="8405000" />
+      <workItem from="1726030822362" duration="2208000" />
+      <workItem from="1726042455935" duration="8716000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -242,20 +328,45 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pratice$test_biggest_odd.coverage" NAME="test_biggest_odd Coverage Results" MODIFIED="1724422137974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$pascal_cases.coverage" NAME="pascal_cases Coverage Results" MODIFIED="1725972614729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$start_and_end_all_with_one.coverage" NAME="start_and_end_all_with_one Coverage Results" MODIFIED="1725771395097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$__init__.coverage" NAME="test Akant Coverage Results" MODIFIED="1724169684664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pratice$task__1_.coverage" NAME="task (1) Coverage Results" MODIFIED="1724767961262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
-    <SUITE FILE_PATH="coverage/pratice$task.coverage" NAME="task Coverage Results" MODIFIED="1724697277100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/javascripttask" />
-    <SUITE FILE_PATH="coverage/pratice$main.coverage" NAME="main Coverage Results" MODIFIED="1724168889266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratice$increasing_numbers_in_diamond_shape.coverage" NAME="increasing_numbers_in_diamond_shape Coverage Results" MODIFIED="1725795458707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$practice.coverage" NAME="practice Coverage Results" MODIFIED="1724420165629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self practice" />
-    <SUITE FILE_PATH="coverage/pratice$classtask.coverage" NAME="classtask Coverage Results" MODIFIED="1724162432141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratice$classproject.coverage" NAME="classproject Coverage Results" MODIFIED="1724158348410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratice$classes_in_python.coverage" NAME="classes_in_python Coverage Results" MODIFIED="1724168650376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratice$start_all_number_with_one.coverage" NAME="start_all_number_with_one Coverage Results" MODIFIED="1725771555535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$pyramid.coverage" NAME="pyramid Coverage Results" MODIFIED="1725725977130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$biggest_odd.coverage" NAME="biggest_odd Coverage Results" MODIFIED="1724422133465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self practice" />
-    <SUITE FILE_PATH="coverage/pratice$big_odd__1_.coverage" NAME="bigodd Coverage Results" MODIFIED="1724424240368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$classproject.coverage" NAME="classproject Coverage Results" MODIFIED="1724158348410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratice$equalstring.coverage" NAME="equalstring Coverage Results" MODIFIED="1724427666538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
-    <SUITE FILE_PATH="coverage/pratice$student_grade.coverage" NAME="student_grade Coverage Results" MODIFIED="1724420136242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LagbajaSchool/school" />
-    <SUITE FILE_PATH="coverage/pratice$.coverage" NAME=" Coverage Results" MODIFIED="1724768029780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$alphabetcounter.coverage" NAME="alphabetcounter Coverage Results" MODIFIED="1725953405575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classtask" />
+    <SUITE FILE_PATH="coverage/pratice$splitting_string_by_even_and_odd.coverage" NAME="splitting_string_by_even_and_odd Coverage Results" MODIFIED="1726054222086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$hillpattern.coverage" NAME="hillpattern Coverage Results" MODIFIED="1725720410077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$left_sided_pascal_triangle.coverage" NAME="left_sided_pascal_triangle Coverage Results" MODIFIED="1725906070161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$numbers_in_triangle_shape.coverage" NAME="numbers_in_triangle_shape Coverage Results" MODIFIED="1725732183333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$Python_tests_for_test_Akant_TestAkant__1_.coverage" NAME="Python tests for test Akant.TestAkant (1) Coverage Results" MODIFIED="1724169799630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$diamond.coverage" NAME="diamond Coverage Results" MODIFIED="1725906844447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$ascending_numbers.coverage" NAME="ascending_numbers Coverage Results" MODIFIED="1725724779995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$test_biggest_odd.coverage" NAME="test_biggest_odd Coverage Results" MODIFIED="1724422137974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$del_triangle_and_nabla.coverage" NAME="del_triangle_and_nabla Coverage Results" MODIFIED="1725724178490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$del_triangle.coverage" NAME="del_triangle Coverage Results" MODIFIED="1725718150244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$lefttriangle.coverage" NAME="lefttriangle Coverage Results" MODIFIED="1725715951810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$task.coverage" NAME="task Coverage Results" MODIFIED="1725640592365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$reversenumber.coverage" NAME="reversenumber Coverage Results" MODIFIED="1725702561948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$main.coverage" NAME="main Coverage Results" MODIFIED="1724168889266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratice$reversehill.coverage" NAME="reversehill Coverage Results" MODIFIED="1725715423651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$classtask.coverage" NAME="classtask Coverage Results" MODIFIED="1724162432141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratice$classes_in_python.coverage" NAME="classes_in_python Coverage Results" MODIFIED="1724168650376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratice$big_odd__1_.coverage" NAME="bigodd Coverage Results" MODIFIED="1724424240368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$characters.coverage" NAME="characters Coverage Results" MODIFIED="1725621939724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$trying_pyramid_again.coverage" NAME="trying_pyramid_again Coverage Results" MODIFIED="1725770749436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$for_loop_multiple_initializer.coverage" NAME="for_loop_multiple_initializer Coverage Results" MODIFIED="1725779099331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$student_grade.coverage" NAME="student_grade Coverage Results" MODIFIED="1724420136242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LagbajaSchool/school" />
+    <SUITE FILE_PATH="coverage/pratice$lolime.coverage" NAME="lolime Coverage Results" MODIFIED="1725201924404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LagbajaSchool" />
+    <SUITE FILE_PATH="coverage/pratice$countChars.coverage" NAME="countChars Coverage Results" MODIFIED="1725972462378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classtask" />
+    <SUITE FILE_PATH="coverage/pratice$.coverage" NAME=" Coverage Results" MODIFIED="1726043181609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$nablatriangle.coverage" NAME="nablatriangle Coverage Results" MODIFIED="1725724198934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$numbers_in_A_triangle.coverage" NAME="numbers_in_A_triangle Coverage Results" MODIFIED="1725744602669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$startriangle.coverage" NAME="startriangle Coverage Results" MODIFIED="1725724122966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
   </component>
 </project>

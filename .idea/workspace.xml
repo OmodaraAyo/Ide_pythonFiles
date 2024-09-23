@@ -5,67 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48eeefa7-2db6-4e00-9bde-f0a84011844e" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/classtask/classassignment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classtask/classassignment/random_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classtask/task1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classtask/task1/sequence_Of_Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classtask/task1/validate_emails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classtask/task2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selfpractice/codewar/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selfpractice/codewar/split_and_join_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selfpractice/practices/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/classassignmenttest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/classassignmenttest/test_random_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/codewartest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/codewartest/test_pascal_cases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/task/test_validate_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/task2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_sequence_of_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_in_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/task2/classes_in_python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/task1/turpleclasstask2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classtask.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/task1/turpletask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classtask/alphabetcounter.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/task2/alphabetcounter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classtask/capitals.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/task2/capitals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classtask/cees.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/task2/cees.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classtask/charactersswap.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/task2/charactersswap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classtask/countChars.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/task2/countChars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classtask/evenoddcounter.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/task2/evenoddcounter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/ascending_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/ascending_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/bigodd.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/bigodd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/del_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/del_triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/del_triangle_and_nabla.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/del_triangle_and_nabla.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/diamond.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/diamond.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/equalstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/equalstring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/for_loop_multiple_initializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/for_loop_multiple_initializer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/hillpattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/hillpattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/increasing_numbers_in_diamond_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/increasing_numbers_in_diamond_shape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/left_sided_pascal_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/left_sided_pascal_triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/lefttriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/lefttriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/nablatriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/nablatriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/numbers_in_A_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/numbers_in_A_triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/numbers_in_triangle_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/numbers_in_triangle_shape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/pascal_cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/codewar/pascal_cases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/pascal_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/pascal_triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/practice23.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/practice23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/pyramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/pyramid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/reversehill.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/reversehill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/reversenumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/reversenumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/splitting_string_by_even_and_odd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/startriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/startriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfpractice/trying_pyramid_again.py" beforeDir="false" afterPath="$PROJECT_DIR$/selfpractice/practices/trying_pyramid_again.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/task/test_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/task/test_characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/task/test_charswap.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/task/test_charswap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/task/test_classtasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/task/test_classtasks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/task/test_evenoddcounter.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/task/test_evenoddcounter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_akant.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/task2/test_akant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_biggestodd.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/task2/test_biggestodd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_equalstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/task2/test_equalstring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/task2/test_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classtask/classassignment/random_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/classassignment/random_password.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,7 +286,7 @@
       <workItem from="1726632824450" duration="2821000" />
       <workItem from="1726650511921" duration="28178000" />
       <workItem from="1727065281072" duration="13000" />
-      <workItem from="1727079167268" duration="7615000" />
+      <workItem from="1727079167268" duration="8040000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />

@@ -1,9 +1,6 @@
 import string
 from random import choices
 
-from unicodedata import digit
-
-
 def generate_password(length):
     try:
         int(length)

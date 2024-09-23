@@ -1,6 +1,6 @@
 import unittest
 
-from classtask.evenoddcounter import eaocounter
+from classtask.task2.evenoddcounter import eaocounter
 
 
 class TestEvenOddCounter(unittest.TestCase):

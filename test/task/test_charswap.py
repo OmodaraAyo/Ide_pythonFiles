@@ -1,5 +1,5 @@
 import unittest
-from classtask.charactersswap import swapchars2
+from classtask.task2.charactersswap import swapchars2
 
 class TestSwappingChars(unittest.TestCase):
     def test_that_swappingchars_exist(self):

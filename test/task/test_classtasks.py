@@ -1,8 +1,8 @@
 import unittest
-from classtask.cees import *
-from classtask.capitals import caps_to_small
-from classtask.alphabetcounter import alphacount
-from classtask.charactersswap import swapchars2
+from classtask.task2.cees import *
+from classtask.task2.capitals import caps_to_small
+from classtask.task2.alphabetcounter import alphacount
+from classtask.task2.charactersswap import swapchars2
 
 
 class TestSees(unittest.TestCase):

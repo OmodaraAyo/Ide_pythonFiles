@@ -1,4 +1,4 @@
-from classes_in_python import Akant
+from task2.classes_in_python import Akant
 
 account1 = Akant("chindima", "0000")
 account1.deposit(5000)

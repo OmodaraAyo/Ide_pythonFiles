@@ -1,5 +1,6 @@
 import unittest
-from selfpractice import characters
+from selfpractice.practices import characters
+
 
 class TestCharacters(unittest.TestCase):
     def test_To_Count_Characters(self):

@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48eeefa7-2db6-4e00-9bde-f0a84011844e" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/classtask/Tv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classtask/Tv/tv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classtask/loancontract/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classtask/loancontract/loan_contract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skpractice/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TvTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TvTest/test_tv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/loancontracttest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/loancontracttest/test_loancontract.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classtask/classassignment/random_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/classassignment/random_password.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +44,23 @@
   "keyToString": {
     "Python tests.Python tests for TestAkant.executor": "Run",
     "Python tests.Python tests for TestAkant.test_that_account_can_deposit.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_That_Tv_can_increase_volume.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_That_Tv_can_set_channels.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_That_Tv_decreases_volume_by_one_if_channel_down.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_That_Tv_default_channel_is_at_Zero.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_That_Tv_default_value_is_at_Zero.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_That_Tv_default_volume_is_at_zero.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_That_Tv_increases_channel_by_one_if_channel_up.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_That_Tv_isOff.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_That_Tv_isOn.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_Tv_Exist.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_to_decreases_tv_volume_by_one_if_volume_up.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_to_increases_tv_volume_by_one_if_channel_up.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_to_increases_tv_volume_by_one_if_volume_up.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_to_set_tv_channel_above_100.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_to_set_tv_channel_below_0.executor": "Run",
+    "Python tests.Python tests for TvTest.test_tv.TestTv.test_to_set_tv_volume_above_100.executor": "Run",
     "Python tests.Python tests for classassignmenttest.test_random_password.TestRandomPassword.executor": "Run",
     "Python tests.Python tests for classassignmenttest.test_random_password.TestRandomPassword.test_that_generatePassword_function_exist.executor": "Run",
     "Python tests.Python tests for classassignmenttest.test_random_password.TestRandomPassword.test_that_given_a_string_parameter_password_generator_returns_A_Number_isRequired.executor": "Run",
@@ -46,6 +71,25 @@
     "Python tests.Python tests for codewartest.test_pascal_cases.TestPascalCases.executor": "Run",
     "Python tests.Python tests for codewartest.test_pascal_cases.TestPascalCases.test_that_passPascalOf_function_exist.executor": "Run",
     "Python tests.Python tests for codewartest.test_pascal_cases.TestPascalCases.test_that_passPascalOf_functionality.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_a_person_taking_a_loan_contract_has_a_name.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_each_loan_contract_must_have_a_loan_period.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_each_loan_contract_must_have_an_interest_rate.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_each_loan_contract_taking_must_have_an_interest_rate.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_interest_rate_input_is_valid_if_a_float_number_is_given.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_interest_rate_raiseValue_error_if_a_string_is_given.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_loan_amount_input_is_valid_if_a_float_number_is_given.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_loan_amount_raiseValue_error_if_a_string_is_given.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_loan_contract_has_borrower.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_loan_period_input_is_valid_if_a_float_number_is_given.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_loan_period_raiseValue_error_if_a_string_is_given.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_there_is_a_loan_amount_for_each_loan_contract.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_there_is_an_interest_rate_for_each_loan_contract.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_calculate_monthly_payment_on_loan_contract.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_calculate_total_payment_on_loan_contract.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_raise_value_error_if_interest_rate_is_less_than_one.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_raise_value_error_if_loan_amount_is_less_than_a_thousand.executor": "Run",
+    "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_raise_value_error_if_loan_period_is_less_than_a_one.executor": "Run",
     "Python tests.Python tests for task.test_charswap.TestCharactersswap.executor": "Run",
     "Python tests.Python tests for task.test_charswap.TestCharsSwap.executor": "Run",
     "Python tests.Python tests for task.test_charswap.TestSwappingChars.executor": "Run",
@@ -90,6 +134,7 @@
     "Python tests.Python tests in test_pascal_cases.py.executor": "Run",
     "Python.Python tests for test Akant.TestAkant (1).executor": "Run",
     "Python.__init__.executor": "Run",
+    "Python.account.executor": "Run",
     "Python.alphabetcounter.executor": "Run",
     "Python.ascending_numbers.executor": "Run",
     "Python.big_odd (1).executor": "Run",
@@ -132,6 +177,7 @@
     "Python.test Akant.executor": "Run",
     "Python.test_biggest_odd.executor": "Run",
     "Python.trying_pyramid_again.executor": "Run",
+    "Python.tv.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -144,15 +190,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\pratice\classtask" />
       <recent name="C:\Users\USER\PycharmProjects\pratice\classtask\task1" />
       <recent name="C:\Users\USER\PycharmProjects\pratice\classtask\task2" />
-      <recent name="C:\Users\USER\PycharmProjects\pratice\classtask" />
       <recent name="C:\Users\USER\PycharmProjects\pratice\test\task2" />
       <recent name="C:\Users\USER\PycharmProjects\pratice\selfpractice\practices" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for task.test_validate_email.Test_validate_email">
-    <configuration name="random_password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.account">
+    <configuration name="account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,12 +207,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classtask/classassignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skpractice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classtask/classassignment/random_password.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/skpractice/account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for classassignmenttest.test_random_password.TestRandomPassword" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for loancontracttest.test_loancontract.TestLoanContract" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +233,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;classassignmenttest.test_random_password.TestRandomPassword&quot;" />
+      <option name="_new_target" value="&quot;loancontracttest.test_loancontract.TestLoanContract&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for classassignmenttest.test_random_password.TestRandomPassword.test_that_given_a_string_parameter_password_generator_returns_A_Number_isRequired" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_calculate_monthly_payment_on_loan_contract" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,11 +249,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;classassignmenttest.test_random_password.TestRandomPassword.test_that_given_a_string_parameter_password_generator_returns_A_Number_isRequired&quot;" />
+      <option name="_new_target" value="&quot;loancontracttest.test_loancontract.TestLoanContract.test_to_calculate_monthly_payment_on_loan_contract&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for task.test_validate_email.Test_validate_email" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_calculate_total_payment_on_loan_contract" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,11 +265,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;task.test_validate_email.Test_validate_email&quot;" />
+      <option name="_new_target" value="&quot;loancontracttest.test_loancontract.TestLoanContract.test_to_calculate_total_payment_on_loan_contract&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for task.test_validate_email.Test_validate_email.test_that_validate_email_is_invalid" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_raise_value_error_if_loan_period_is_less_than_a_one" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,17 +281,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;task.test_validate_email.Test_validate_email.test_that_validate_email_is_invalid&quot;" />
+      <option name="_new_target" value="&quot;loancontracttest.test_loancontract.TestLoanContract.test_to_raise_value_error_if_loan_period_is_less_than_a_one&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for task.test_validate_email.Test_validate_email" />
-        <item itemvalue="Python tests.Python tests for task.test_validate_email.Test_validate_email.test_that_validate_email_is_invalid" />
-        <item itemvalue="Python tests.Python tests for classassignmenttest.test_random_password.TestRandomPassword" />
-        <item itemvalue="Python tests.Python tests for classassignmenttest.test_random_password.TestRandomPassword.test_that_given_a_string_parameter_password_generator_returns_A_Number_isRequired" />
-        <item itemvalue="Python.random_password" />
+        <item itemvalue="Python.account" />
+        <item itemvalue="Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract" />
+        <item itemvalue="Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_calculate_total_payment_on_loan_contract" />
+        <item itemvalue="Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_calculate_monthly_payment_on_loan_contract" />
+        <item itemvalue="Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_raise_value_error_if_loan_period_is_less_than_a_one" />
       </list>
     </recent_temporary>
   </component>
@@ -287,6 +333,8 @@
       <workItem from="1726650511921" duration="28178000" />
       <workItem from="1727065281072" duration="13000" />
       <workItem from="1727079167268" duration="8040000" />
+      <workItem from="1727182023695" duration="1092000" />
+      <workItem from="1727948939349" duration="55042000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -320,11 +368,12 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pratice$pascal_cases.coverage" NAME="pascal_cases Coverage Results" MODIFIED="1726343291808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$start_and_end_all_with_one.coverage" NAME="start_and_end_all_with_one Coverage Results" MODIFIED="1725771395097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
-    <SUITE FILE_PATH="coverage/pratice$increasing_numbers_in_diamond_shape.coverage" NAME="increasing_numbers_in_diamond_shape Coverage Results" MODIFIED="1726343028724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
-    <SUITE FILE_PATH="coverage/pratice$task__1_.coverage" NAME="task (1) Coverage Results" MODIFIED="1724767961262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$__init__.coverage" NAME="test Akant Coverage Results" MODIFIED="1724169684664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$task__1_.coverage" NAME="task (1) Coverage Results" MODIFIED="1724767961262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$increasing_numbers_in_diamond_shape.coverage" NAME="increasing_numbers_in_diamond_shape Coverage Results" MODIFIED="1726343028724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$practice.coverage" NAME="practice Coverage Results" MODIFIED="1724420165629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self practice" />
     <SUITE FILE_PATH="coverage/pratice$start_all_number_with_one.coverage" NAME="start_all_number_with_one Coverage Results" MODIFIED="1725771555535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$account.coverage" NAME="account Coverage Results" MODIFIED="1728260971663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skpractice" />
     <SUITE FILE_PATH="coverage/pratice$pyramid.coverage" NAME="pyramid Coverage Results" MODIFIED="1725725977130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$biggest_odd.coverage" NAME="biggest_odd Coverage Results" MODIFIED="1724422133465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self practice" />
     <SUITE FILE_PATH="coverage/pratice$classproject.coverage" NAME="classproject Coverage Results" MODIFIED="1724158348410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -333,6 +382,7 @@
     <SUITE FILE_PATH="coverage/pratice$alphabetcounter.coverage" NAME="alphabetcounter Coverage Results" MODIFIED="1727079366815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classtask/task2" />
     <SUITE FILE_PATH="coverage/pratice$hillpattern.coverage" NAME="hillpattern Coverage Results" MODIFIED="1725720410077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$left_sided_pascal_triangle.coverage" NAME="left_sided_pascal_triangle Coverage Results" MODIFIED="1725906070161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$tv.coverage" NAME="tv Coverage Results" MODIFIED="1727951975015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tv" />
     <SUITE FILE_PATH="coverage/pratice$numbers_in_triangle_shape.coverage" NAME="numbers_in_triangle_shape Coverage Results" MODIFIED="1725732183333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$Python_tests_for_test_Akant_TestAkant__1_.coverage" NAME="Python tests for test Akant.TestAkant (1) Coverage Results" MODIFIED="1724169799630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pratice$diamond.coverage" NAME="diamond Coverage Results" MODIFIED="1725906844447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
@@ -357,7 +407,7 @@
     <SUITE FILE_PATH="coverage/pratice$lolime.coverage" NAME="lolime Coverage Results" MODIFIED="1725201924404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LagbajaSchool" />
     <SUITE FILE_PATH="coverage/pratice$split_and_join_strings__1_.coverage" NAME="split_and_join_strings (1) Coverage Results" MODIFIED="1726318620912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$countChars.coverage" NAME="countChars Coverage Results" MODIFIED="1727087961986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classtask/task2" />
-    <SUITE FILE_PATH="coverage/pratice$.coverage" NAME=" Coverage Results" MODIFIED="1727116353666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$.coverage" NAME=" Coverage Results" MODIFIED="1728183157583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pratice$nablatriangle.coverage" NAME="nablatriangle Coverage Results" MODIFIED="1725724198934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$numbers_in_A_triangle.coverage" NAME="numbers_in_A_triangle Coverage Results" MODIFIED="1725744602669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$startriangle.coverage" NAME="startriangle Coverage Results" MODIFIED="1725724122966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />

@@ -30,13 +30,13 @@ class Ac:
             return self.error_message()
 
     def temperature_increment(self):
-        if 16 <= self.temperature <= 30:
-            self.temperature += 1
+        if self.temperature > 30:
+            self.temperature = 30
         else:
-            pass
+            self.temperature += 1
 
     def temperature_decrement(self):
-        if 16 <= self.temperature <= 30:
+        if 16 < self.temperature <= 30:
             self.temperature -= 1
         else:
             self.temperature = self.temperature

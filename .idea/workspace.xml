@@ -5,20 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48eeefa7-2db6-4e00-9bde-f0a84011844e" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/airconditioner/air_conditioner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classtask/Bike/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classtask/Bike/bike.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selfpractice/codewar/sentence_split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skpractice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skpractice/employeeinheritance/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skpractice/employeeinheritance/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skpractice/employeeinheritance/salaray_employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/airconditionertest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/airconditionertest/test_air_conditioner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/biketest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/biketest/test_bike.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/codewartest/test_sentence_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydatastructures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydatastructures/my_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydatastructures/my_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/codewar/alphabet_position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/codewar/compare_last_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/codewar/compare_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfpractice/codewar/digits_squared.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/codewartest/test_alphabet_position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/codewartest/test_compare_last_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/codewartest/test_compare_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/codewartest/test_digit_squared.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/datastructures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/datastructures/my_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/datastructures/test_my_stack.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airconditioner/air_conditioner.py" beforeDir="false" afterPath="$PROJECT_DIR$/airconditioner/air_conditioner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classtask/Bike/bike.py" beforeDir="false" afterPath="$PROJECT_DIR$/classtask/Bike/bike.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/biketest/test_bike.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/biketest/test_bike.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +86,7 @@
     "Python tests.Python tests for biketest.test_bike.TestBike.test_to_decelerate_when_BikeIsOn_and_gear_is_set_to_one_bike_speed_increases_by_one.executor": "Run",
     "Python tests.Python tests for biketest.test_bike.TestBike.test_to_decelerate_when_BikeIsOn_and_gear_is_set_to_three_bike_speed_decreases_by_three.executor": "Run",
     "Python tests.Python tests for biketest.test_bike.TestBike.test_to_decelerate_when_BikeIsOn_and_gear_is_set_to_two_bike_speed_decreases_by_two.executor": "Run",
+    "Python tests.Python tests for biketest.test_bike.TestBike.test_to_turn_bike_on.executor": "Run",
     "Python tests.Python tests for biketest.test_bike.TestBike.test_when_BikeIsOff_and_gear_and_speed_are_set_raise_value_error.executor": "Run",
     "Python tests.Python tests for biketest.test_bike.TestBike.test_when_BikeIsOn_and_gear_is_set_to_four_bike_speed_increases_by_three.executor": "Run",
     "Python tests.Python tests for biketest.test_bike.TestBike.test_when_BikeIsOn_and_gear_is_set_to_three_bike_speed_increases_by_three.executor": "Run",
@@ -94,12 +99,40 @@
     "Python tests.Python tests for classassignmenttest.test_random_password.TestRandomPassword.test_that_password_generator_has_length_of_16_characters_length.executor": "Run",
     "Python tests.Python tests for classassignmenttest.test_random_password.TestRandomPassword.test_that_password_generator_has_length_of_8_characters_length.executor": "Run",
     "Python tests.Python tests for classassignmenttest.test_random_password.TestRandomPassword.test_that_password_generator_has_minimum_of_8_characters_length.executor": "Run",
+    "Python tests.Python tests for codewartest.compare_words.TestCompareWords.executor": "Run",
+    "Python tests.Python tests for codewartest.compare_words.TestCompareWords.test_compare_words.executor": "Run",
+    "Python tests.Python tests for codewartest.compare_words.TestCompareWords.test_compare_words_functionality2.executor": "Run",
+    "Python tests.Python tests for codewartest.compare_words.TestCompareWords.test_compare_words_functionality3.executor": "Run",
+    "Python tests.Python tests for codewartest.compare_words.TestCompareWords.test_compare_words_functionality4.executor": "Run",
+    "Python tests.Python tests for codewartest.compare_words.TestCompareWords.test_compare_words_functionality5.executor": "Run",
+    "Python tests.Python tests for codewartest.test_alphabet_position.TestAlphabetPosition.executor": "Run",
+    "Python tests.Python tests for codewartest.test_alphabet_position.TestAlphabetPosition.test_alphabet_position_functionality.executor": "Run",
+    "Python tests.Python tests for codewartest.test_alphabet_position.TestAlphabetPosition.test_alphabet_position_functionality_2.executor": "Run",
+    "Python tests.Python tests for codewartest.test_compare_last_index.TestCompareLastIndex.executor": "Run",
+    "Python tests.Python tests for codewartest.test_compare_last_index.TestCompareLastIndex.test_last_character_funtionality.executor": "Run",
+    "Python tests.Python tests for codewartest.test_compare_last_index.TestCompareLastIndex.test_last_index.executor": "Run",
+    "Python tests.Python tests for codewartest.test_compare_last_index.TestCompareLastIndex.test_last_index_functionality_2.executor": "Run",
+    "Python tests.Python tests for codewartest.test_compare_last_index.TestCompareLastIndex.test_match_last_character.executor": "Run",
+    "Python tests.Python tests for codewartest.test_digit_squared.TestDigitSquared.executor": "Run",
     "Python tests.Python tests for codewartest.test_pascal_cases.TestPascalCases.executor": "Run",
     "Python tests.Python tests for codewartest.test_pascal_cases.TestPascalCases.test_that_passPascalOf_function_exist.executor": "Run",
     "Python tests.Python tests for codewartest.test_pascal_cases.TestPascalCases.test_that_passPascalOf_functionality.executor": "Run",
     "Python tests.Python tests for codewartest.test_sentence_split.TestSentenceSplit.executor": "Run",
     "Python tests.Python tests for codewartest.test_sentence_split.TestSentenceSplit.test_sentence_split_functionality.executor": "Run",
     "Python tests.Python tests for codewartest.test_sentence_split.TestSentenceSplit.test_sentence_split_functionality_B.executor": "Run",
+    "Python tests.Python tests for datastructures.my_queue.TestMYQueue.executor": "Run",
+    "Python tests.Python tests for datastructures.my_queue.TestMYQueue.test_that_when_stack_is_empty_poll_method_return_None.executor": "Run",
+    "Python tests.Python tests for datastructures.my_queue.TestMYQueue.test_to_add_element_in_the_queue.executor": "Run",
+    "Python tests.Python tests for datastructures.my_queue.TestMYQueue.test_to_insert_a_specific_element_into_the_queue.executor": "Run",
+    "Python tests.Python tests for datastructures.my_queue.TestMYQueue.test_to_remove_the_head_of_the_queue.executor": "Run",
+    "Python tests.Python tests for datastructures.my_queue.TestMYQueue.test_to_remove_the_head_of_the_queue_with_a_different_method.executor": "Run",
+    "Python tests.Python tests for datastructures.my_queue.TestMYQueue.test_to_retrieve_element_from_the_queue.executor": "Run",
+    "Python tests.Python tests for datastructures.my_queue.TestMYQueue.test_to_retrieve_the_element_at_the_head_of_the_queue_yet_with_another_method.executor": "Run",
+    "Python tests.Python tests for datastructures.my_queue.TestMYQueue.test_to_retrive_element_when_queue_is_empty.executor": "Run",
+    "Python tests.Python tests for datastructures.test_my_stack.TestMyStack.executor": "Run",
+    "Python tests.Python tests for datastructures.test_my_stack.TestMyStack.test_that_if_an_element_is_popped_from_an_empty_stack_error_is_thrown.executor": "Run",
+    "Python tests.Python tests for datastructures.test_my_stack.TestMyStack.test_that_if_peeked_through_an_empty_stack_error_is_thrown.executor": "Run",
+    "Python tests.Python tests for datastructures.test_my_stack.TestMyStack.test_that_searching_through_an_empty_stack_error_is_thrown.executor": "Run",
     "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.executor": "Run",
     "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_a_person_taking_a_loan_contract_has_a_name.executor": "Run",
     "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_that_each_loan_contract_must_have_a_loan_period.executor": "Run",
@@ -120,6 +153,12 @@
     "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_raise_value_error_if_interest_rate_is_less_than_one.executor": "Run",
     "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_raise_value_error_if_loan_amount_is_less_than_a_thousand.executor": "Run",
     "Python tests.Python tests for loancontracttest.test_loancontract.TestLoanContract.test_to_raise_value_error_if_loan_period_is_less_than_a_one.executor": "Run",
+    "Python tests.Python tests for my_stack.test_my_stack.TestMyStack.test_that_stack_is_empty.executor": "Run",
+    "Python tests.Python tests for stack.test_my_stack.TestMyStack.executor": "Run",
+    "Python tests.Python tests for stack.test_my_stack.TestMyStack.test__that_that_stack_is_not_empty_after_an_element_is_pushed_in_the_stack.executor": "Run",
+    "Python tests.Python tests for stack.test_my_stack.TestMyStack.test_that_stack_is_empty.executor": "Debug",
+    "Python tests.Python tests for stack.test_my_stack.TestMyStack.test_that_stack_is_not_empty_after_an_element_is_pushed_in_the_stack.executor": "Run",
+    "Python tests.Python tests for stack.test_my_stack.TestMyStack.test_that_the_stack_is_not_empty_after_an_element_is_pushed_in_the_stack.executor": "Run",
     "Python tests.Python tests for task.test_charswap.TestCharactersswap.executor": "Run",
     "Python tests.Python tests for task.test_charswap.TestCharsSwap.executor": "Run",
     "Python tests.Python tests for task.test_charswap.TestSwappingChars.executor": "Run",
@@ -165,6 +204,7 @@
     "Python.Python tests for test Akant.TestAkant (1).executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.account.executor": "Run",
+    "Python.alphabet_position.executor": "Run",
     "Python.alphabetcounter.executor": "Run",
     "Python.ascending_numbers.executor": "Run",
     "Python.big_odd (1).executor": "Run",
@@ -217,21 +257,44 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\USER\PycharmProjects\pratice\skpractice" />
       <recent name="C:\Users\USER\PycharmProjects\pratice\classtask" />
+      <recent name="C:\Users\USER\PycharmProjects\pratice\skpractice" />
       <recent name="C:\Users\USER\PycharmProjects\pratice\classtask\task1" />
       <recent name="C:\Users\USER\PycharmProjects\pratice\classtask\task2" />
       <recent name="C:\Users\USER\PycharmProjects\pratice\test\task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for airconditionertest.test_air_conditioner.AirConditionerTest">
-    <configuration name="Python tests for airconditionertest.test_air_conditioner.AirConditionerTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for codewartest.test_alphabet_position.TestAlphabetPosition">
+    <configuration name="alphabet_position" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selfpractice/codewar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selfpractice/codewar/alphabet_position.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for codewartest.test_alphabet_position.TestAlphabetPosition" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,11 +306,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;airconditionertest.test_air_conditioner.AirConditionerTest&quot;" />
+      <option name="_new_target" value="&quot;codewartest.test_alphabet_position.TestAlphabetPosition&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for airconditionertest.test_air_conditioner.AirConditionerTest.test_that_when_ac_is_Off_temperature_sets_back_to_16" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for codewartest.test_alphabet_position.TestAlphabetPosition.test_alphabet_position_functionality" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,11 +322,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;airconditionertest.test_air_conditioner.AirConditionerTest.test_that_when_ac_is_Off_temperature_sets_back_to_16&quot;" />
+      <option name="_new_target" value="&quot;codewartest.test_alphabet_position.TestAlphabetPosition.test_alphabet_position_functionality&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for airconditionertest.test_air_conditioner.AirConditionerTest.test_to_decrease_Ac_temperature_when_ac_is_On" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for codewartest.test_alphabet_position.TestAlphabetPosition.test_alphabet_position_functionality_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,11 +338,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;airconditionertest.test_air_conditioner.AirConditionerTest.test_to_decrease_Ac_temperature_when_ac_is_On&quot;" />
+      <option name="_new_target" value="&quot;codewartest.test_alphabet_position.TestAlphabetPosition.test_alphabet_position_functionality_2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for airconditionertest.test_air_conditioner.AirConditionerTest.test_to_increase_Ac_temperature_when_ac_is_On" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for codewartest.test_compare_words.TestCompareWords" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -291,11 +354,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;airconditionertest.test_air_conditioner.AirConditionerTest.test_to_increase_Ac_temperature_when_ac_is_On&quot;" />
+      <option name="_new_target" value="&quot;codewartest.test_compare_words.TestCompareWords&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for airconditionertest.test_air_conditioner.AirConditionerTest.test_to_increase_Ac_temperature_when_ac_is_not_On" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for datastructures.test_my_stack.TestMyStack" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -307,17 +370,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;airconditionertest.test_air_conditioner.AirConditionerTest.test_to_increase_Ac_temperature_when_ac_is_not_On&quot;" />
+      <option name="_new_target" value="&quot;datastructures.test_my_stack.TestMyStack&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for airconditionertest.test_air_conditioner.AirConditionerTest" />
-        <item itemvalue="Python tests.Python tests for airconditionertest.test_air_conditioner.AirConditionerTest.test_that_when_ac_is_Off_temperature_sets_back_to_16" />
-        <item itemvalue="Python tests.Python tests for airconditionertest.test_air_conditioner.AirConditionerTest.test_to_increase_Ac_temperature_when_ac_is_On" />
-        <item itemvalue="Python tests.Python tests for airconditionertest.test_air_conditioner.AirConditionerTest.test_to_decrease_Ac_temperature_when_ac_is_On" />
-        <item itemvalue="Python tests.Python tests for airconditionertest.test_air_conditioner.AirConditionerTest.test_to_increase_Ac_temperature_when_ac_is_not_On" />
+        <item itemvalue="Python tests.Python tests for codewartest.test_alphabet_position.TestAlphabetPosition" />
+        <item itemvalue="Python tests.Python tests for codewartest.test_alphabet_position.TestAlphabetPosition.test_alphabet_position_functionality_2" />
+        <item itemvalue="Python tests.Python tests for codewartest.test_alphabet_position.TestAlphabetPosition.test_alphabet_position_functionality" />
+        <item itemvalue="Python.alphabet_position" />
+        <item itemvalue="Python tests.Python tests for codewartest.test_compare_words.TestCompareWords" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +433,10 @@
       <workItem from="1728495708354" duration="94000" />
       <workItem from="1728495832493" duration="381000" />
       <workItem from="1728496243631" duration="290000" />
-      <workItem from="1728496553200" duration="12982000" />
+      <workItem from="1728496553200" duration="49465000" />
+      <workItem from="1728841263550" duration="6088000" />
+      <workItem from="1729483961455" duration="1953000" />
+      <workItem from="1729505214573" duration="9332000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -409,6 +475,7 @@
     <SUITE FILE_PATH="coverage/pratice$increasing_numbers_in_diamond_shape.coverage" NAME="increasing_numbers_in_diamond_shape Coverage Results" MODIFIED="1726343028724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$practice.coverage" NAME="practice Coverage Results" MODIFIED="1724420165629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self practice" />
     <SUITE FILE_PATH="coverage/pratice$start_all_number_with_one.coverage" NAME="start_all_number_with_one Coverage Results" MODIFIED="1725771555535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
+    <SUITE FILE_PATH="coverage/pratice$alphabet_position.coverage" NAME="alphabet_position Coverage Results" MODIFIED="1729528638673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice/codewar" />
     <SUITE FILE_PATH="coverage/pratice$account.coverage" NAME="account Coverage Results" MODIFIED="1728260971663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skpractice" />
     <SUITE FILE_PATH="coverage/pratice$pyramid.coverage" NAME="pyramid Coverage Results" MODIFIED="1725725977130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$biggest_odd.coverage" NAME="biggest_odd Coverage Results" MODIFIED="1724422133465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self practice" />
@@ -444,7 +511,7 @@
     <SUITE FILE_PATH="coverage/pratice$lolime.coverage" NAME="lolime Coverage Results" MODIFIED="1725201924404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LagbajaSchool" />
     <SUITE FILE_PATH="coverage/pratice$split_and_join_strings__1_.coverage" NAME="split_and_join_strings (1) Coverage Results" MODIFIED="1726318620912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$countChars.coverage" NAME="countChars Coverage Results" MODIFIED="1727087961986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classtask/task2" />
-    <SUITE FILE_PATH="coverage/pratice$.coverage" NAME=" Coverage Results" MODIFIED="1728540722154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pratice$.coverage" NAME=" Coverage Results" MODIFIED="1729530164485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pratice$nablatriangle.coverage" NAME="nablatriangle Coverage Results" MODIFIED="1725724198934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$numbers_in_A_triangle.coverage" NAME="numbers_in_A_triangle Coverage Results" MODIFIED="1725744602669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />
     <SUITE FILE_PATH="coverage/pratice$startriangle.coverage" NAME="startriangle Coverage Results" MODIFIED="1725724122966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selfpractice" />

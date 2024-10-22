@@ -5,15 +5,16 @@ class Bike:
         self.gear = 0
         self.acceleration = 0
 
+    def power_status(self):
+        return self.isOn
+
     def turn_on(self):
         self.isOn = True
-        return self.isOn
 
     def turn_off(self):
         self.isOn = False
         self.gear = 0
         self.acceleration = 0
-        return self.isOn
 
     def error_message(self):
         return "Bike is not On"
